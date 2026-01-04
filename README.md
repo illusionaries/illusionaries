@@ -9,5 +9,5 @@
 - 📫 How to reach me
   - Also, don't...
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=illusionaryd)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=illusionaries)](https://git.io/streak-stats)
  ![Contributions](profile-3d-contrib/profile-season-animate.svg)
